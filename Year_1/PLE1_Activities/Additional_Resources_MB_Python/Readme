@@ -1,7 +1,7 @@
 To demonstrate transmitting a coded message via radio communication to a receiver for decoding
 
 Python code is used to code a message using a Caeser Cipher.
-The coded massage is sent to a Micro:Bit that transmits the coded message to a receiver Micro:Bit.
+The coded massage is sent to a Micro:Bit that transmits the coded message to a receiverm micro:Bit.
 
-The receiver Micro:Bit sends the received coded message to a Python script for decoding.
+The receiver micro:Bit sends the received coded message to a Python script for decoding.
 
